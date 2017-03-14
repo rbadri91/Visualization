@@ -1,2 +1,3 @@
 # Visualization
-Assisgnments done using D3.js
+An interactive bar chart and pie chart that visualizes various data related to the baseball players using D3.js
+
